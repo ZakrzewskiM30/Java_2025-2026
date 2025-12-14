@@ -11,3 +11,9 @@
 | Termin oddania | Punkty     |
 |----------------|:-----------|
 |    13.12.2025 23:59  |   10       |
+
+## Zadanie 3
+[Treść zadania](https://github.com/ZakrzewskiM30/Java_Stock_3)
+| Termin oddania | Punkty     |
+|----------------|:-----------|
+|    17.01.2026 23:59  |   15       |
